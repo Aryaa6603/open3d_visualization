@@ -7,7 +7,7 @@ This repository provides a Google Colab notebook for visualizing point clouds us
 
 ## Usage
 
-1. Open the Colab notebook (`open3d_visualization_colab.ipynb`) in Google Colab.
+1. Open the Colab notebook (`open3d_demo.ipynb`) in Google Colab.
 2. Follow the instructions in the notebook to load and visualize point cloud data using Open3D.
 3. Interact with the visualization directly within the Colab environment.
 
